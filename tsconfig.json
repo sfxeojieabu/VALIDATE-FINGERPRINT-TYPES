@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "target": "ES6", 
+      "module": "CommonJS", 
+      "outDir": "./dist", 
+      "rootDir": "./",
+      "lib": ["DOM", "ES6"], 
+      "strict": true 
+    },
+    "include": ["validateFingerprintTypes.ts"] 
+  }
+  
